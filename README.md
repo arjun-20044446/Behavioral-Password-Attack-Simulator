@@ -18,20 +18,45 @@
 
 ## 🛠️ Installation
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOURNAME/SubRaptorX-2.0.git && cd SubRaptorX-2.0
+git clone https://github.com/YOURUSERNAME/bpas.git && cd bpas
 ```
 
-### 2. Run installer
+### 2. Run the Installer
 
 ```bash
 chmod +x install.sh && ./install.sh
 ```
 
-### 3. Start tool
+### 3. Run BPAS
 
 ```bash
-chmod +x SubRaptorX.sh && ./SubRaptorX.sh
+python3 bpas.py
 ```
+
+---
+
+## Usage
+
+Run the simulator:
+
+```bash
+python3 bpas.py
+```
+
+Select one of the options:
+
+1. Run Password Attack Simulation  
+2. Hash Re-Encode Utility
+
+---
+
+## Features
+
+- Offline dictionary password attack simulation
+- Supports **MD5, SHA1, SHA256**
+- Real-time password cracking attempt display
+- Hash re-encoding utility
+- Educational cybersecurity tool
