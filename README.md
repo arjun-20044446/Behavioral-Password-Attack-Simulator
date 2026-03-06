@@ -22,7 +22,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOURUSERNAME/bpas.git && cd bpas
+git clone https://github.com/ARJUN/bpas.git && cd bpas
 ```
 
 ### 2. Run the Installer
