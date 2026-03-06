@@ -17,4 +17,47 @@
 * **Privacy-First**: No network connection required; your hashes never leave your machine.
 
 ## 🛠️ Installation
+## Installation
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOURUSERNAME/bpas.git && cd bpas
+```
+
+### 2. Run the Installer
+
+```bash
+chmod +x install.sh && ./install.sh
+```
+
+### 3. Run BPAS
+
+```bash
+python3 bpas.py
+```
+
+---
+
+## Usage
+
+Run the simulator:
+
+```bash
+python3 bpas.py
+```
+
+Select one of the options:
+
+1. Run Password Attack Simulation  
+2. Hash Re-Encode Utility
+
+---
+
+## Features
+
+- Offline dictionary password attack simulation
+- Supports **MD5, SHA1, SHA256**
+- Real-time password cracking attempt display
+- Hash re-encoding utility
+- Educational cybersecurity tool
