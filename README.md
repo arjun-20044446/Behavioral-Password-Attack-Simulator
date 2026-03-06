@@ -18,11 +18,20 @@
 
 ## 🛠️ Installation
 
-```bash
- ### Clone the repository
-git clone [https://github.com/yourusername/BPAS.git](https://github.com/yourusername/BPAS.git)
-cd BPAS
+### 1. Clone the repository
 
-### Run the automated installer
-chmod +x install.sh
-./install.sh
+```bash
+git clone https://github.com/YOURNAME/SubRaptorX-2.0.git && cd SubRaptorX-2.0
+```
+
+### 2. Run installer
+
+```bash
+chmod +x install.sh && ./install.sh
+```
+
+### 3. Start tool
+
+```bash
+chmod +x SubRaptorX.sh && ./SubRaptorX.sh
+```
