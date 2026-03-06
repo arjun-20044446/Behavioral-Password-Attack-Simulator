@@ -19,10 +19,10 @@
 ## 🛠️ Installation
 
 ```bash
-# Clone the repository
+ Clone the repository
 git clone [https://github.com/yourusername/BPAS.git](https://github.com/yourusername/BPAS.git)
 cd BPAS
 
-# Run the automated installer
+ Run the automated installer
 chmod +x install.sh
 ./install.sh
